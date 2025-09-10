@@ -159,6 +159,5 @@ client.on('message', async message => {
     }
 });
 
-// --- Inicialização ---
 client.initialize();
 
